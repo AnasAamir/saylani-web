@@ -1,0 +1,220 @@
+        * {
+            margin: 0px;
+            padding: 0%;
+            font-family: 'Roboto', sans-serif;
+            font-size: 14px;
+        }
+        
+        body {
+            overflow-x: hidden;
+        }
+        
+        .row a>i {
+            color: white;
+            padding: 13.78px;
+            padding-top: 0px;
+        }
+        
+        .row div {
+            padding-top: 12px;
+        }
+        
+        .clr-white {
+            background-color: white !important;
+        }
+        
+        .btn-sm {
+            padding: .25rem .5rem;
+            font-size: .7rem !important;
+            line-height: 1.5;
+            border-radius: .0 !important;
+            border-color: green !important;
+            color: green !important;
+            box
+        }
+        
+        #navbarNavDropdown ul li>a {
+            color: black;
+            border-radius: 30px;
+            padding: 8px 16px;
+            transition: background 0.3s linear;
+            color 0.3s linear;
+        }
+        
+        #navbarNavDropdown ul li>a:hover {
+            color: white;
+            background-color: #316DC3;
+            border-radius: 30px;
+        }
+        
+        #navbarNavDropdown ul li>a.active {
+            color: white;
+            background-color: #316DC3;
+            border-radius: 30px;
+        }
+        
+        #navbarNavDropdown {
+            padding: 18px 0;
+            padding-top: 0;
+        }
+        
+        .navbar {
+            float: right;
+        }
+        
+        .text {
+            justify-content: center;
+        }
+        
+        .textblock {
+            background-color: #316DC3;
+            margin: 10px;
+            text-align: center;
+        }
+        
+        .categoryMonth {
+            color: #00ff00;
+        }
+        
+        .dailyNumbers {
+            background-color: #0754fa;
+            text-align: center;
+            color: #fafafa;
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+        
+        .dailyDastrakhan {
+            display: inline-block;
+            margin: 20px;
+            top: -13px;
+        }
+        
+        .familyAdoption {
+            display: inline-block;
+            margin: 20px;
+            margin-left: 60px;
+        }
+        
+        .medical {
+            display: inline-block;
+            margin: 20px;
+            margin-left: 60px;
+        }
+        
+        .education {
+            display: inline-block;
+            margin: 20px;
+            margin-left: 60px;
+        }
+        
+        .animatedNumbers {
+            font-size: 42px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            position: relative;
+        }
+        
+        .categoriesOfNumbers {
+            position: relative;
+            top: -35px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            top: 10px;
+        }
+        
+        .categoryMonth {
+            font-size: 18px;
+        }
+        
+        .category {
+            font-size: 16px;
+        }
+        
+        .card {
+            margin-left: 30px;
+            box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+            border: none !important;
+            border-radius: 0 !important;
+            padding-top: 40px !important;
+        }
+        
+        .card-text {
+            text-align: center;
+        }
+        
+        h1 span {
+            font-size: 35px;
+            text-transform: uppercase;
+        }
+        
+        .mission {
+            color: #316DC3;
+            border: 1px solid #eee;
+            display: flex;
+            padding: 15px;
+            padding-top: 20px;
+            margin: 10px;
+        }
+        
+        .bg-sliver-light {
+            background-color: #f7f8fa;
+        }
+        
+        .media-body {
+            display: flex;
+        }
+        
+        .media-body h4 {
+            margin-top: 5px;
+        }
+        
+        .media-body img {
+            margin-right: 25px;
+        }
+        
+        .box2 {
+            padding: 0 !important;
+            height: 2px !important;
+        }
+        
+        .border-bottom {
+            border-bottom: 1px solid silver;
+        }
+        
+        .border-bottom:after {
+            width: 60px;
+            border-bottom: 1px solid green;
+            left: 12px;
+            position: absolute;
+            content: "";
+            top: 53px;
+        }
+        
+        #gallery .row .col-md-12 img {
+            width: 200px;
+        }
+        
+        #gallery {
+            padding-bottom: 10em;
+        }
+        
+        .box2 {
+            display: inline-block;
+            padding: 1px;
+            width: 228px;
+            overflow: hidden;
+        }
+        
+        .list-unstyled span i {
+            background-color: #316DC3;
+            padding: 1px;
+            border-radius: 50%;
+        }
+        
+        .footer2 {
+            background-color: #316DC3;
+            padding: 5px;
+        }
+        
+        .footer2 p {
+            padding-left: 16rem !important;
+        }
